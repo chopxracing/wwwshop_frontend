@@ -1,3 +1,10 @@
+фронтенд для магазина на vue3, макет с сайта, есть jQuery, по этой причине и забил, больше дополнятся не будет. много что сделано, корзины марзины продукты и тому подобное. админка на блэйд шаблонах в wwwshop_backend
+
+
+
+
+
+
 # shop_vue
 
 This template should help get you started developing with Vue 3 in Vite.
